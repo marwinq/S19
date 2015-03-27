@@ -40,7 +40,7 @@ def print_totals(S):
             print(str(S[i])+'\tS'+str(i)+' records.')
     return
 
-#Initialize a list of zeroes of length N
+#Initialize a list of zeroes of length N.
 
 def zerolist(N):
     l=[0]*N
