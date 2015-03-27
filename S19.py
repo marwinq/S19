@@ -153,7 +153,7 @@ print file_name + ' has ' + str(len(h)) + ' records.'
 #Make list of the count of different type of S records.
 z=s_totals(h)
 print_totals(z)
-#Save Data fields to file
+#Save Data fields to file.
 d_h=data_extract_whole(h)
-#Save Address fields to file
+#Save Address fields to file.
 a_h=addr_extract_whole(h)
