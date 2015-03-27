@@ -46,8 +46,8 @@ def zerolist(N):
     l=[0]*N
     return l
 
-#Extracts the bytecount byte from the selected record R. See diagram XX for illustration of
-#this byte.
+#Extracts the bytecount byte from the selected record R. See S19_Chart for illustration of
+#different byte fields for each record.
 
 def bytecount_byte(R):
     r=R[2:4]
