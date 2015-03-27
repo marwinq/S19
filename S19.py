@@ -1,5 +1,5 @@
 #S19 File Analysis
-#By Marwin Q
+#By Quito, M.
 #This is a small module which can be used to analyze the structure of
 #an S19 file for personal study and reference.
 
